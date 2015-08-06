@@ -1,0 +1,5 @@
+Go to an airport page, eg https://en.wikipedia.org/wiki/Edinburgh_Airport
+Add id flights to the destinations table
+Run export.js in the console and copy output to CSV file
+Run import.py
+Run cypher query to find matching destinations
